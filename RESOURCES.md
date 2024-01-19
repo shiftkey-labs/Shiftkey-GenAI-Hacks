@@ -1,8 +1,6 @@
-# Shiftkey Generative AI Hackathon Resources
+# ShiftKey Generative AI Hackathon Resources
 
-This document provides a list of resources to get started with generative AI for the Shiftkey Generative AI Hackathon.
-
-Sure, here's an enhanced Table of Contents for the "Shiftkey Generative AI Hackathon Resources" document, including hypothetical links for direct navigation to each section:
+Welcome to the resource guide for the ShiftKey Generative AI Hackathon. This document is designed to provide you with essential resources and tools to kickstart your journey in the world of Generative AI.
 
 ### Table of Contents
 
@@ -80,4 +78,14 @@ To set up generative AI models on your local machine, you can follow these onlin
 - [Hugging Face Transformers](https://huggingface.co/transformers/) - The Transformers library by Hugging Face is a powerful tool for working with state-of-the-art NLP models.
 - [Hugging Face Model Hub](https://huggingface.co/models) - Explore and download pre-trained models from the Hugging Face Model Hub.
 
-Feel free to explore these resources and dive into the exciting world of generative AI at the Shiftkey Generative AI Hackathon!
+
+## Contact Us
+
+Need assistance or have questions regarding resources or Generative AI? Reach out to us:
+
+- **Vansh Sood**: vansh@dal.ca
+- Visit the ShiftKey Office during the hackathon for direct support!
+
+---
+
+Explore these resources and immerse yourself in the transformative world of Generative AI at the ShiftKey Generative AI Hackathon. Happy hacking! 🌟🌐🚀
