@@ -1,6 +1,8 @@
-# ShiftKey x CSS x WiTS Hackathon
+# ShiftKey Labs GenAI Hackathon
 
 ![Generative AI Hackathon](https://shiftkeylabs.ca/wp-content/uploads/2023/10/Alt-2-3.png)
+
+Welcome to the ShiftKey x CSS x WiTS Generative AI Hackathon! This unique event is designed for tech enthusiasts eager to contribute to the field of healthcare using Generative AI, with a special focus on UN SDG 3 - Good Health and Wellbeing.
 
 ## Generative AI (Artificial Intelligence)
 
@@ -10,104 +12,105 @@
 
 ## Table of Contents
 
-1. [Challenge Statements – TBC](#challenge-statements-–-tbc)
-2. [Targeted Students](#targeted-students)
-3. [Hackathon Streams](#hackathon-streams)
-4. [Social Media Plan](#social-media-plan)
-5. [Marking – TBC](#marking-–-tbc)
-6. [Collaborators – TBC](#collaborators-–-tbc)
-7. [Judges](#judges)
-8. [Mentors](#mentors)
-9. [Resources](#resources)
-10. [Appendix](#appendix)
-    - [Promotional Text – 1](#promotional-text-–-1)
-    - [Promotional Text – 2](#promotional-text-–-2)
-11. [Important Dates](#important-dates)
+1. [Introduction](#introduction)
+2. [Theme](#theme)
+3. [Requirements](#requirements)
+4. [Participation](#participation)
+5. [Rounds Description](#rounds-description)
+6. [Peer Review](#peer-review)
+7. [Prizes](#prizes)
+8. [Judges](#judges)
+9. [Judging Criteria](#judging-criteria)
+10. [Devpost Submissions](#devpost-submissions)
+11. [Contact Us](#contact-us)
 12. [FAQ](#faq)
-13. [Agenda](#agenda)
+13. [Important Dates](#important-dates)
 
 ---
 
-## Challenge Statements – TBC
+## Introduction
 
-(Categories below, need to complete exact challenge statements)
+Dive into the world of Generative AI and make a substantial impact in healthcare. This hackathon challenges you to create solutions that enhance health outcomes and wellbeing.
 
-1. Chatbots – Assistants for emergency health needs, provide mental health support, etc.
-2. Health Education – Health literacy, Hygiene, Healthy Eating, Disorders, etc.
-3. Healthcare cost optimizations – Affordable healthcare (Reducing unwanted wait times and supply better support for lesser cost)
-4. Physical Aid – Supporting and solving accessibility needs (Example: Developing a hearing aid with AI model to have live translations)
+## Theme
 
-## Targeted Students
+**UN SDG 3: Good Health and Wellbeing** - Utilize Generative AI to create transformative health solutions.
 
-1. Tech/CS/Engineering
-2. Healthcare
-3. Science
-4. Commerce
+## Requirements
 
-## Hackathon Streams
+### Participation
 
-1. Coding Stream - Participants can use any open source and any coding language to create a tool and should be able to demonstrate the working of the tool using sample data.
-2. Idea/Presentation
+Each team's active participation and commitment will be assessed by ShiftKey (SK).
 
-## Social Media Plan
+### Rounds Description
 
-1. Registration post – 4th Jan.
-2. All you need to know pt.1 – 10th Jan.
-3. All you need to know pt. 2 – 15th Jan.
-   - Resources
-   - Workshops
-   - Agenda
-4. Team formation start – 18th Jan.
+**Round 1: Brainstorming + Literature Review**
+Focus on ideation and literature review.
 
-## Marking – TBC
+**Round 2: Low Fidelity + User Survey Analysis**
+Develop low-fidelity prototypes and conduct user surveys.
 
-| Activity                                     | Percentage |
-| -------------------------------------------- | ---------- |
-| Round 1 - Brainstorming + Lit Review         | 7.50%      |
-| Round 2 - Low Fi + User Survey Analysis      | 7.50%      |
-| Round 3 - Hi Fi Prototype                    | 7.50%      |
-| Round 4 – Final Pitch                        | 7.50%      |
-| Peer Review                                  | 5%         |
-| Peer Review Evaluation – Analysis done by SK | 5%         |
-| Rubrics based judging – Done by Judges       | 60%        |
+**Round 3: High Fidelity Prototype**
+Refine ideas into high-fidelity prototypes.
 
-## Collaborators – TBC
+**Round 4: Final Pitch**
+Present and pitch your polished prototypes.
 
-### Judges
+### Peer Review
 
-### Mentors
+Participate in providing feedback on other teams' projects.
 
-## Resources
+### Peer Review Evaluation
 
-1. Devpost
-2. Discord/Slack for the participants
-3. Workshops
+ShiftKey Labs will analyze the peer reviews for a fair and comprehensive assessment.
 
-## Appendix
+## Prizes
 
-Welcome to ShiftKey Labs' Generative AI Hackathon, where innovation meets technology in collaboration with Dal CSS and Dal WiTS!
+- $CAD500 in total
+- 1st and 2nd Prizes for both Tech Team and Idea Team
 
-Calling on all students across Nova Scotia to unleash their creativity and coding prowess! Dive into the world of Generative AI and channel your ideas towards addressing the United Nations Sustainable Development Goals. Join us for a weekend of learning, collaboration, and problem-solving as we strive to make a positive impact on our world.
+## Judges
 
-In this hackathon, participants have the freedom to select their preferred category — whether it's hands-on development and coding of a tool or crafting an idea alongside a compelling business model to highlight the potential of their technology.
+- Dr. Christian Blouin
+- Dr. Angela Siegel
+- Tucan Das
+- Dr. Lori Wozney
 
-Happening on the 20th and the 21st of January, at the Goldberg Computer Science Building, Halifax. There will be amazing food, exciting prizes and lot of entertainment opportunities for all participants.
+## Judging Criteria
 
-### Promotional Text – 2
+| Criterion          | Description                          |
+|--------------------|--------------------------------------|
+| Accessibility      | How accessible is the solution?      |
+| Social Impact      | Impact on society and health.        |
+| Feasibility        | Practicality of implementation.      |
+| Completion         | Degree of completion of the project. |
+| Ideology           | Alignment with hackathon theme.      |
+| Scalability        | Potential for scaling the solution.  |
+| AI Implementation  | Effectiveness of AI use.             |
 
-ShiftKey Labs in Dalhousie university is conducting a 2-day hackathon in the Goldberg Computer Science building, Halifax, on Generative AI open for all students in Nova Scotia and from all faculties. This is an in-person hackathon is happening on the 20th and 21st of January 🤩🤩
+## Devpost Submissions
 
-For the first time in a hackathon by ShiftKey labs there will be two streams:
+Submit your projects on Devpost: [Link to Devpost](#)
 
-- Coding/AI Tool creation/Demonstration – Use your coding skills to create tool(s)
-- Idea Presentation/Business Model – No coding needed, all you need is innovative ideas and use your pitching skills to show why your idea can thrive in the current world.
+## Contact Us
 
-There also would be a chill zone (video games, board games and movies) set up on the night of 20th and winners get amazing prizes. 😎✨
+If you need any help or have queries, feel free to reach out:
+
+- **Sahil Chawla**: sahil.chawla@dal.ca
+- **Vansh Sood**: vansh@dal.ca
+
+Join our community:
+- **Discord Channel**: [ShiftKey AI Hack Discord](#)
+- Drop by the ShiftKey Office during the hackathon for direct assistance!
 
 ## Important Dates
 
-1. Team formation Opens: Friday, 19th Jan, 5:30 pm
-2. Drop-in hours (Online and In-person live Q n A): Friday, 19th Jan, 5:30 pm
-3. Individual Registration Closes: Saturday, 20th Jan, 12 pm
-4. Team formation Closes: Saturday, 20th Jan, 12 pm
-5. Doors Open: Saturday, 20th Jan, 9:30 am
+- Team Formation Opens: Jan 19, 5:30 pm
+- Drop-in Q&A: Jan 19, 5:30 pm
+- Individual Registration Closes: Jan 20, 12 pm
+- Team Formation Closes: Jan 20, 12 pm
+- Doors Open: Jan 20, 9:30 am
+
+---
+
+Get ready to innovate and make a difference in the healthcare sector using Generative AI! 🌟🌐🚀
