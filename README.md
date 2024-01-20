@@ -73,7 +73,7 @@ ShiftKey Labs will analyze the peer reviews for a fair and comprehensive assessm
 
 - Dr. Christian Blouin
 - Dr. Angela Siegel
-- Tucan Das
+- Tukan Das
 - Dr. Lori Wozney
 
 ## Judging Criteria
@@ -90,7 +90,7 @@ ShiftKey Labs will analyze the peer reviews for a fair and comprehensive assessm
 
 ## Devpost Submissions
 
-Submit your projects on Devpost: [Link to Devpost](#)
+Submit your projects on Devpost: [Link to Devpost](https://shiftkey-hacks.devpost.com/)
 
 ## Contact Us
 
