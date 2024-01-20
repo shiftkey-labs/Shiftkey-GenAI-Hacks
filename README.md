@@ -105,7 +105,8 @@ Join our community:
 
 ## Important Dates
 
-![image](https://github.com/shiftkey-labs/Shiftkey-GenAI-Hacks/assets/121076035/95a733c6-d39e-494f-b21f-d2256fe0b20c)
+![image](https://github.com/shiftkey-labs/Shiftkey-GenAI-Hacks/assets/121076035/734bffde-6296-4689-9596-0580e997fa21)
+
 
 ---
 
