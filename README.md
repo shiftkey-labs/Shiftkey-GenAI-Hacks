@@ -105,11 +105,7 @@ Join our community:
 
 ## Important Dates
 
-- Team Formation Opens: Jan 19, 5:30 pm
-- Drop-in Q&A: Jan 19, 5:30 pm
-- Individual Registration Closes: Jan 20, 12 pm
-- Team Formation Closes: Jan 20, 12 pm
-- Doors Open: Jan 20, 9:30 am
+![image](https://github.com/shiftkey-labs/Shiftkey-GenAI-Hacks/assets/121076035/95a733c6-d39e-494f-b21f-d2256fe0b20c)
 
 ---
 
