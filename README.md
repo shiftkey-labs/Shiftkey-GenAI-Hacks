@@ -1,12 +1,12 @@
 # ShiftKey Labs GenAI Hackathon
 
-![Generative AI Hackathon](https://shiftkeylabs.ca/wp-content/uploads/2023/10/Alt-2-3.png)
+![Generative AI Hackathon](https://shiftkeylabs.ca/wp-content/uploads/2024/12/Gen-AI-Hackathon-copy.png)
 
-Welcome to the ShiftKey x CSS x WiTS Generative AI Hackathon! This unique event is designed for tech enthusiasts eager to contribute to the field of healthcare using Generative AI, with a special focus on UN SDG 3 - Good Health and Wellbeing.
+Welcome to the ShiftKey x CSS x WiTS Generative AI Hackathon for 2025! This unique event is designed for tech enthusiasts eager to contribute to building products that help promote Mental Wellbeing using Generative AI.
 
 ## Generative AI (Artificial Intelligence)
 
-### Theme: UN SDG (Sustainable Development Goal) 3 - Good Health and Wellbeing
+### Theme: Mental Wellbeing
 
 ---
 
@@ -30,11 +30,11 @@ Welcome to the ShiftKey x CSS x WiTS Generative AI Hackathon! This unique event 
 
 ## Introduction
 
-Dive into the world of Generative AI and make a substantial impact in healthcare. This hackathon challenges you to create solutions that enhance health outcomes and wellbeing.
+Dive into the world of Generative AI and make a meaningful impact on mental wellbeing. This hackathon challenges you to create innovative solutions that enhance mental health outcomes using AI technology.
 
 ## Theme
 
-**UN SDG 3: Good Health and Wellbeing** - Utilize Generative AI to create transformative health solutions.
+**Mental Wellbeing** - Utilize Generative AI to create transformative mental health solutions.
 
 ## Requirements
 
@@ -44,16 +44,13 @@ Each team's active participation and commitment will be assessed by ShiftKey (SK
 
 ### Rounds Description
 
-**Round 1: Brainstorming + Literature Review**
-Focus on ideation and literature review.
+**Round 1: Brainstorming + Low Fidelity **
+Focus on ideation and Develop low-fidelity prototypes. 
 
-**Round 2: Low Fidelity + User Survey Analysis**
-Develop low-fidelity prototypes and conduct user surveys.
-
-**Round 3: High Fidelity Prototype**
+**Round 2: High Fidelity Prototype**
 Refine ideas into high-fidelity prototypes.
 
-**Round 4: Final Pitch**
+**Round 3: Final Pitch**
 Present and pitch your polished prototypes.
 
 ### Peer Review
@@ -66,37 +63,25 @@ ShiftKey Labs will analyze the peer reviews for a fair and comprehensive assessm
 
 ## Prizes
 
-- $CAD500 in total
-- 1st and 2nd Prizes for both Tech Team and Idea Team
+TBD - Exciting prizes will be revealed during the kickoff presentation!
 
 ## Judges
 
-- Dr. Christian Blouin
-- Dr. Angela Siegel
-- Tukan Das
-- Dr. Lori Wozney
+TBD - We will be announcing judges during the kickoff presentation.
 
 ## Judging Criteria
 
-| Criterion          | Description                          |
-|--------------------|--------------------------------------|
-| Accessibility      | How accessible is the solution?      |
-| Social Impact      | Impact on society and health.        |
-| Feasibility        | Practicality of implementation.      |
-| Completion         | Degree of completion of the project. |
-| Ideology           | Alignment with hackathon theme.      |
-| Scalability        | Potential for scaling the solution.  |
-| AI Implementation  | Effectiveness of AI use.             |
+TBD - Judging criteria will be announced during the kickoff presentation.
 
 ## Devpost Submissions
 
-Submit your projects on Devpost: [Link to Devpost](https://shiftkey-hacks.devpost.com/)
+Submit your projects on Devpost: [Link to Devpost](https://shiftkey-genai-mental-wellness.devpost.com/)
 
 ## Contact Us
 
 If you need any help or have queries, feel free to reach out:
 
-- **Sahil Chawla**: sahil.chawla@dal.ca
+- **Tobi.Onibudo**: Tobi.Onibudo@dal.ca
 - **Vansh Sood**: vansh@dal.ca
 
 Join our community:
@@ -105,8 +90,41 @@ Join our community:
 
 ## Important Dates
 
-![image](https://github.com/shiftkey-labs/Shiftkey-GenAI-Hacks/assets/121076035/95a733c6-d39e-494f-b21f-d2256fe0b20c)
+### Friday, January 17th
+| Time    | Program                | Location/Room           |
+|---------|------------------------|------------------------|
+| 18:30   | Open Team Formation    | Online                |
+
+### Saturday, January 18th
+| Time    | Program                | Location/Room           |
+|---------|------------------------|------------------------|
+| 09:30   | Doors open, Coffee & Tea| Goldberg Atrium       |
+| 10:00-11:30 | Presentation/Kick-off  | Room 127             |
+| 12:30   | Hackathon 101          | Room 127             |
+| 13:00-14:00 | Work time + QnA       | Goldberg             |
+| 14:00-15:00 | Lunch                 | Goldberg Atrium      |
+| 15:00-18:30 | Work time + QnA       | Goldberg             |
+| 18:30   | Submit Round 1         | Online                |
+| 19:00-20:00 | Dinner                | Goldberg Atrium      |
+| 20:00-21:00 | Work time             | Goldberg             |
+| 21:00-22:30 | Entertainment         | Multiple Rooms        |
+|         | - Board Games          | Room 134              |
+|         | - Movies               | Room 127              |
+|         | - Video Games          | Room 143              |
+
+### Sunday, January 19th
+| Time    | Program                | Location/Room           |
+|---------|------------------------|------------------------|
+| 09:00   | Breakfast - Coffee, Tea| Atrium                |
+| 09:30-12:30 | Work time             | Goldberg             |
+| 12:30   | Submit Round 2         | Online                |
+| 13:00   | Lunch                 | Atrium                |
+| 13:30-16:00 | Work time             | Goldberg             |
+| 16:00   | Final Submission      | Online                |
+| 16:30-17:30 | Presentations         | Room 127: CIBC Auditorium |
+| 17:30   | Judging & Awards      | Room 127: CIBC Auditorium |
+| E.O.D   | Clean & close         | All rooms             |
 
 ---
 
-Get ready to innovate and make a difference in the healthcare sector using Generative AI! 🌟🌐🚀
+Get ready to innovate and make a difference in the mental health space using Generative AI! 🌟🌐🚀

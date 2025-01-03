@@ -83,7 +83,9 @@ To set up generative AI models on your local machine, you can follow these onlin
 
 Need assistance or have questions regarding resources or Generative AI? Reach out to us:
 
+- **Tobi.Onibudo**: -Tobi.Onibudo@dal.ca
 - **Vansh Sood**: vansh@dal.ca
+
 - Visit the ShiftKey Office during the hackathon for direct support!
 
 ---

@@ -1,12 +1,11 @@
-# ShiftKey Labs GenAI Hackathon Submission Guidelines
+# ShiftKey Labs GenAI: Mental Wellbeing Hackathon Submission Guidelines
 
 Welcome participants to the ShiftKey Labs Generative AI Hackathon! This guide will help you in submitting your projects on Devpost for both the coding and non-coding streams.
 
 ## Table of Contents
 
 1. [Submission Overview](#submission-overview)
-2. [Coding Stream Submission](#coding-stream-submission)
-3. [Non-Coding Stream Submission](#non-coding-stream-submission)
+
 4. [Submission Deadline](#submission-deadline)
 5. [Submission Process](#submission-process)
 6. [Contact Information](#contact-information)
@@ -17,7 +16,6 @@ Welcome participants to the ShiftKey Labs Generative AI Hackathon! This guide wi
 
 Participants are required to submit their projects on Devpost.
 
-## Coding Stream Submission
 
 ### What to Include:
 - A detailed description of your project.
@@ -25,22 +23,25 @@ Participants are required to submit their projects on Devpost.
 - Documentation of your code and implementation.
 - Any relevant links to deployed applications or demos.
 
-## Non-Coding Stream Submission
-
-### What to Include:
-- A comprehensive explanation of your idea or concept.
-- Supporting materials like slides, documents, or concept art.
-- A video presentation, if possible, explaining your project.
 
 ## Submission Deadline
 
-- **All submissions must be made by 2:45 PM on the designated deadline day.**
+### Round 1
+- Initial submission due by **6:30 PM on Saturday, January 18th, 2025**
+
+### Round 2
+- Second round submission due by **12:30 PM on Sunday, January 19th, 2025**
+
+### Final Round
+- Final submission must be completed by **4:00 PM on Sunday, January 19th, 2025**
+
+**Note: All submissions must be made by their designated deadlines. Late submissions will not be considered.**
 
 ## Submission Process
 
 To submit your project, follow these steps:
 
-1. Go to the ShiftKey Labs GenAI Hackathon page on Devpost: [ShiftKey Labs GenAI Hackathon on Devpost](https://shiftkey-hacks.devpost.com/).
+1. Go to the ShiftKey Labs GenAI Hackathon page on Devpost: [ShiftKey Labs GenAI Hackathon on Devpost](https://shiftkey-genai-mental-wellness.devpost.com/).
 2. Create an account or log in if you already have one.
 3. Click on ‘Start a Project’ or ‘Submit a Project’.
 4. Fill in the project details as per the stream you are participating in.
