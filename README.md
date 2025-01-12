@@ -53,14 +53,6 @@ Refine ideas into high-fidelity prototypes.
 **Round 3: Final Pitch**
 Present and pitch your polished prototypes.
 
-### Peer Review
-
-Participate in providing feedback on other teams' projects.
-
-### Peer Review Evaluation
-
-ShiftKey Labs will analyze the peer reviews for a fair and comprehensive assessment.
-
 ## Prizes
 
 TBD - Exciting prizes will be revealed during the kickoff presentation!
