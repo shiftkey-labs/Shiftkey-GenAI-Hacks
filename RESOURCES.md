@@ -60,6 +60,30 @@ Each of these models has unique features and applications, ranging from text gen
 - Collaborative platform for sharing and exploring models.
 - Active community for support and knowledge sharing.
 
+## Cursor: The AI Code Editor
+
+[Cursor](https://www.cursor.com/) is an AI-driven code editor designed to enhance developer productivity by offering intelligent code suggestions, natural language commands, and seamless integration with existing codebases. Here are some reasons to try Cursor:
+
+- **Intelligent Code Suggestions**: Predicts your next edit, allowing you to breeze through changes efficiently.
+- **Natural Language Commands**: Enables code writing using simple instructions, updating entire classes or functions with ease.
+- **Seamless Integration**: Compatible with existing extensions, themes, and keybindings, providing a familiar environment for developers.
+
+## APIs for Generative AI
+
+Integrating generative AI capabilities into applications is streamlined with various APIs. Here are some notable ones:
+
+- **Eden AI**: Offers a suite of generative AI APIs, providing access to advanced models for text, image, and other content generation.
+- **Google's Gemini API**: Allows developers to build generative AI applications using Gemini models, capable of understanding and operating across different types of information, including language, images, audio, video, and code.
+- **Postman Generative AI APIs**: Features ready-to-use APIs and collections for integrating generative AI into applications.
+
+## No-Code AI Tools
+
+For those without extensive coding experience, no-code AI platforms enable the creation and deployment of AI models through user-friendly interfaces. Here are some platforms to consider:
+
+- **Akkio**: An open-source, low-code machine learning library in Python that automates machine learning workflows, making you more productive.
+- **BuildFire AI**: A no-code AI mobile app development platform that allows rapid creation and deployment of applications without lengthy development cycles.
+- **Toolplate**: A no-code platform that enables users to build AI models and perform machine learning tasks without coding, using drag-and-drop interfaces and pre-built algorithms.
+
 ## What is Hugging Face and Why You Should Try It
 
 [Hugging Face](https://huggingface.co/) is a popular platform that provides a wide range of pre-trained models and tools for natural language processing (NLP) and generative AI. It is known for its user-friendly interface, extensive model library, and active community support. Here are some reasons why you should try Hugging Face:
@@ -83,8 +107,8 @@ To set up generative AI models on your local machine, you can follow these onlin
 
 Need assistance or have questions regarding resources or Generative AI? Reach out to us:
 
-- **Tobi.Onibudo**: -Tobi.Onibudo@dal.ca
-- **Vansh Sood**: vansh@dal.ca
+- **Tobi.Onibudo**: Tobi.Onibudo@dal.ca
+- **Vansh Sood**: vanshsood@dal.ca
 
 - Visit the ShiftKey Office during the hackathon for direct support!
 
