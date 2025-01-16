@@ -55,15 +55,27 @@ Present and pitch your polished prototypes.
 
 ## Prizes
 
-TBD - Exciting prizes will be revealed during the kickoff presentation!
+- $CAD500 in total
+- 1st, 2nd, and 3rd place prizes 
 
 ## Judges
 
-TBD - We will be announcing judges during the kickoff presentation.
+- Sam Daviau
+- Dr. Oladapo Oyebode 
+- Dr. Rekha Dhonde 
+- Tukan Das
 
 ## Judging Criteria
 
-TBD - Judging criteria will be announced during the kickoff presentation.
+| Criterion          | Description                                                    |
+|--------------------|----------------------------------------------------------------|
+| Accessibility      | How accessible is the solution for diverse mental health needs? |
+| User Experience    | Intuitive design and engaging user interaction.                 |
+| Feasibility        | Practicality and ethical implementation in mental health.       |
+| Completion         | Degree of completion and functionality of the project.          |
+| Innovation         | Uniqueness and creativity in addressing mental health.          |
+| Scalability        | Potential for scaling across different contexts.  |
+| AI Implementation  | Effective and responsible use of GenAI for mental health.       |
 
 ## Devpost Submissions
 
@@ -108,14 +120,13 @@ Join our community:
 | Time    | Program                | Location/Room           |
 |---------|------------------------|------------------------|
 | 09:00   | Breakfast - Coffee, Tea| Atrium                |
-| 09:30-12:30 | Work time             | Goldberg             |
-| 12:30   | Submit Round 2         | Online                |
+| 09:30-13:00 | Work time             | Goldberg             |
 | 13:00   | Lunch                 | Atrium                |
-| 13:30-16:00 | Work time             | Goldberg             |
-| 16:00   | Final Submission      | Online                |
-| 16:30-17:30 | Presentations         | Room 127: CIBC Auditorium |
+| 13:30- 15:30 | Work time             | Goldberg             |
+| 15:30   | Final Submission Due     | Online                |
+| 16:00 | Presentations         | Room 127: CIBC Auditorium |
 | 17:30   | Judging & Awards      | Room 127: CIBC Auditorium |
-| E.O.D   | Clean & close         | All rooms             |
+
 
 ---
 
