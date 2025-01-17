@@ -44,7 +44,7 @@ Each team's active participation and commitment will be assessed by ShiftKey (SK
 
 ### Rounds Description
 
-**Round 1: Brainstorming + Low Fidelity **
+**Round 1: Brainstorming + Low Fidelity**
 Focus on ideation and Develop low-fidelity prototypes. 
 
 **Round 2: High Fidelity Prototype**
