@@ -8,7 +8,7 @@ Welcome participants to the ShiftKey Labs Generative AI Hackathon! This guide wi
 
 4. [Submission Deadline](#submission-deadline)
 5. [Submission Process](#submission-process)
-6. [Contact Information](#contact-information)
+6. [Final Round Details](#final-round-details--important-)
 
 ---
 
@@ -47,6 +47,18 @@ To submit your project, follow these steps:
 4. Fill in the project details as per the stream you are participating in.
 5. Ensure that all the necessary links, documentation, and materials are included.
 6. Submit the project before the deadline.
+
+## Final Round Details **❗ IMPORTANT ❗**
+
+- Each team, after submission on Devpost, will showcase their demo to qualify for the final pitch.
+- **Final Screening:** There will be a screening for all teams before the final round pitch.
+    - This will be max **2-minute demo** and a **Q&A session** around the technology you used.
+    - The screening will take place in the **atrium**, so once you have made the final submission, find a spot in the atrium for your team. Make sure your team is set up asap.
+    - You **do not** need your presentation slide-deck for the screening.
+    - Based on this round, **8 teams** will be selected to pitch in front of everyone in the auditorium.
+- **Final Pitch:**
+    - The 8 selected teams will have **5 minutes** to pitch their project.
+    - A **2-minute Q&A** session will follow, conducted by the judges.
 
 ---
 
