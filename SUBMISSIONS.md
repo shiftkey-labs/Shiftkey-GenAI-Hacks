@@ -33,7 +33,7 @@ Participants are required to submit their projects on Devpost.
 - Second round submission due by **12:30 PM on Sunday, January 19th, 2025**
 
 ### Final Round
-- Final submission must be completed by **4:00 PM on Sunday, January 19th, 2025**
+- Final submission must be completed by **3:30 PM on Sunday, January 19th, 2025**
 
 **Note: All submissions must be made by their designated deadlines. Late submissions will not be considered.**
 
